@@ -33,3 +33,4 @@ Fianlly, the execution module returns value which is execution value or value of
 If instruction is ld or sd, then Memory Procedure does Loading and Storing.
 
 ## Write Back	
+In Write Back module, it offers writing back into registers.
