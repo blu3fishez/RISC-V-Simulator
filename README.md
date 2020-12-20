@@ -10,7 +10,7 @@ Simple Simulator of RISC - V
  I implemented the part of the source code which is the procedures of below. the main skeleton code is given by default from my class.
 My code are consisted of 5 modules, according to Pipelining Model of RISC-V, which is ‘Instruction Fetch’, ‘Decoding’, ‘Execution Part’, ‘Memory’, ‘Write Back’
 
-## 2. Code Explanation
+# 2. Code Explanation
  Before Explanation, Let me Introduce Some Modification of Skeleton Code.
 
 The Intialization part, I made the array that indicates 32 bits from LSB to [31], because of easier decoding.
